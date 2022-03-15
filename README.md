@@ -28,5 +28,5 @@ These are the stack/framework/lib you may find in this notebook:
 
 ## Accessing the notebook
 There are two ways of accesing the notebook: 
-* [Google Colab](https://bit.ly/3rtgx3C)
-* [GitHub Repo](https://bit.ly/3JaPu37)
+* [Google Colab](https://bit.ly/35GusL6)
+* [GitHub Repo](https://bit.ly/3MQUfkP)
